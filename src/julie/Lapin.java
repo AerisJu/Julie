@@ -39,4 +39,8 @@ public class Lapin {
     public void Crier() {
         System.out.println("AHHHHHHH");
       }
+    
+    public void Parler() {
+        System.out.println("Bonjour");
+    }
 }
