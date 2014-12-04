@@ -22,6 +22,7 @@ public class Julie {
        while (i <=10) {
            Lap.Crier();
            i=i+1;
+           System.out.println("gdbeu");
        }
     }
     
